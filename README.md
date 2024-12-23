@@ -5,5 +5,4 @@
 <h2 align="center"> Link para jogar: https://mario-nine-smoky.vercel.app/ </h2>
 <br>
 
-![image](https://github.com/rafaelcstock/numero-secreto-porVoz/assets/108905630/e527c524-19c1-4dbb-8c95-03d202c93c27)
-
+![mario](https://github.com/user-attachments/assets/edec32e5-1c13-4e6a-8d10-c86a43e64318)
